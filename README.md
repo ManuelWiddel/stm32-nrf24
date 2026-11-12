@@ -198,13 +198,7 @@ NRF24_SetRxMode(&radio);
 
 ## Future Improvements
 
-- Multiple RX pipe support
-- ACK payload support
-- Interrupt-driven operation
-- DMA SPI support
-- Non-blocking transmit API
 - Example application project
 
 ## License
 
-MIT License
