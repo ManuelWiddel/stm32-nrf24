@@ -18,7 +18,7 @@
 #define REG_EN_RXADDR        0x02U
 #define REG_SETUP_AW         0x03U
 #define REG_SETUP_RETR       0x04U
-#define REG_RF_CH             0x05U
+#define REG_RF_CH            0x05U
 #define REG_RF_SETUP         0x06U
 #define REG_STATUS           0x07U
 #define REG_RX_ADDR_P0       0x0AU
